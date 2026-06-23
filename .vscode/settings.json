@@ -60,13 +60,21 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
+<<<<<<< HEAD
         "*.unity": "yaml"
+=======
+        "*.unity": "yaml",
+>>>>>>> 437f51e32580c803622f00502712fce152bbe3e2
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "Proj_3D-main.slnx",
+=======
+    "dotnet.defaultSolution": "TP5_3D.slnx",
+>>>>>>> 437f51e32580c803622f00502712fce152bbe3e2
     "dotnet.enableWorkspaceBasedDevelopment": false
 }

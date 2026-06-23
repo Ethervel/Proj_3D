@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.coplaydev.unity-mcp": {
       "version": "https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main",
       "depth": 0,
@@ -17,6 +18,8 @@
       },
       "hash": "85c101f5329ec1b0c6f70cba44614166dd78f53c"
     },
+=======
+>>>>>>> 437f51e32580c803622f00502712fce152bbe3e2
     "com.unity.ai.navigation": {
       "version": "2.0.13",
       "depth": 0,
@@ -110,6 +113,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.2",
       "depth": 1,
@@ -117,6 +121,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 437f51e32580c803622f00502712fce152bbe3e2
     "com.unity.render-pipelines.core": {
       "version": "17.4.0",
       "depth": 1,
